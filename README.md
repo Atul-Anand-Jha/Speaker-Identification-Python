@@ -28,6 +28,8 @@ We have considered MFCC with “tuned parameters” as the primary feature and d
 
 **trainingData/** - consists training audio files. (custom datatset)
 
+**Note:-** Due to oversize, only very few voice samples are kept in the **Dataset Folders**. viz. SampleData, trainingData, development_set. Otherwise all remaining folder's contents are available.
+
 # Screenshots:
 ![alt txt](https://raw.githubusercontent.com/Atul-Anand-Jha/Speaker-Identification-Python/master/documentation/Screenshots/1-voxForge-Model_training.png "1-voxForge-Model_training.png")
 ![alt txt](https://raw.githubusercontent.com/Atul-Anand-Jha/Speaker-Identification-Python/master/documentation/Screenshots/2-VoxForge-Identification.png "2-VoxForge-Identification.png")
